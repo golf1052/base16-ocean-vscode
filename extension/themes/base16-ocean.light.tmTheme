@@ -5,23 +5,23 @@
 	<key>author</key>
 	<string>Chris Kempson (http://chriskempson.com)</string>
 	<key>name</key>
-	<string>Base16 Ocean Dark</string>
+	<string>Base16 Ocean Light</string>
 	<key>semanticClass</key>
-	<string>base16.ocean.dark</string>
+	<string>base16.ocean.light</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
-		<string>#343d46</string>
+		<string>#eff1f5</string>
 		<key>divider</key>
-		<string>#343d46</string>
+		<string>#eff1f5</string>
 		<key>foreground</key>
-		<string>#65737e</string>
-		<key>selectionBackground</key>
 		<string>#4f5b66</string>
+		<key>selectionBackground</key>
+		<string>#eff1f5</string>
 		<key>selectionForeground</key>
-		<string>#a7adba</string>
+		<string>#c0c5ce</string>
 	</dict>
 	<key>settings</key>
 	<array>
@@ -29,17 +29,17 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#2b303b</string>
+				<string>#eff1f5</string>
 				<key>caret</key>
-				<string>#c0c5ce</string>
-				<key>foreground</key>
-				<string>#c0c5ce</string>
-				<key>invisibles</key>
-				<string>#65737e</string>
-				<key>lineHighlight</key>
-				<string>#65737e55</string>
-				<key>selection</key>
 				<string>#4f5b66</string>
+				<key>foreground</key>
+				<string>#4f5b66</string>
+				<key>invisibles</key>
+				<string>#dfe1e8</string>
+				<key>lineHighlight</key>
+				<string>#a7adba55</string>
+				<key>selection</key>
+				<string>#dfe1e8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -50,7 +50,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#c0c5ce</string>
+				<string>#4f5b66</string>
 			</dict>
 		</dict>
 		<dict>
@@ -61,7 +61,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#65737e</string>
+				<string>#a7adba</string>
 			</dict>
 		</dict>
 		<dict>
@@ -72,7 +72,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#c0c5ce</string>
+				<string>#4f5b66</string>
 			</dict>
 		</dict>
 		<dict>
@@ -83,7 +83,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#c0c5ce</string>
+				<string>#4f5b66</string>
 			</dict>
 		</dict>
 		<dict>
@@ -94,7 +94,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#c0c5ce</string>
+				<string>#4f5b66</string>
 			</dict>
 		</dict>
 		<dict>
@@ -138,18 +138,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ebcb8b</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Classes</string>
-			<key>scope</key>
-			<string>meta.class</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#eff1f5</string>
+				<string>#d08770</string>
 			</dict>
 		</dict>
 		<dict>
@@ -329,7 +318,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#ebcb8b</string>
+				<string>#d08770</string>
 			</dict>
 		</dict>
 		<dict>
@@ -360,7 +349,7 @@
 			<key>name</key>
 			<string>Link Text</string>
 			<key>scope</key>
-      <string>string.other.link, punctuation.definition.string.end.markdown</string>
+			<string>string.other.link</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -408,9 +397,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#4f5b66</string>
+				<string>#dfe1e8</string>
 				<key>foreground</key>
-				<string>#c0c5ce</string>
+				<string>#4f5b66</string>
 			</dict>
 		</dict>
 		<dict>
@@ -537,13 +526,13 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#65737e</string>
+				<string>#c0c5ce</string>
 				<key>foreground</key>
-				<string>#eff1f5</string>
+				<string>#2b303b</string>
 			</dict>
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>6a5b0925-40af-42cf-8a2f-dc8485b15a77</string>
+	<string>3e5ddc31-a9fe-4862-af79-2553e57d95f0</string>
 </dict>
 </plist>
