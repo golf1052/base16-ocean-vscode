@@ -1,0 +1,24 @@
+[
+    {
+        "string": "string",
+        "integer": 1052,
+        "double": 1052.0,
+        "negative": -1052,
+        "e": 1052e+1052,
+        "boolean": true,
+        "null": null,
+        "japanese":"明日がある。",
+        "more string stuff": "test\"test\\test\/test\btest\ftest\ntest\rtest\ttest\u1052test"
+    },
+    {
+        "string": "string",
+        "integer": 1052,
+        "double": 1052.0,
+        "negative": -1052,
+        "e": 1052e+1052,
+        "boolean": true,
+        "null": null,
+        "japanese":"明日がある。",
+        "more string stuff": "test\"test\\test\/test\btest\ftest\ntest\rtest\ttest\u1052test"
+    }
+]
