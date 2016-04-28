@@ -2,7 +2,7 @@
 	"name": "theme-base16-ocean",
 	"displayName": "Base16 Ocean",
 	"description": "Base16 Ocean Light and Dark (but has better syntax highlighting in VSCode)",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "golf1052",
     "keywords": [
         "base16",
