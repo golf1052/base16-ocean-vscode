@@ -34,7 +34,7 @@ function Car(brand, weight) {
 Car.prototype.getPrice = function() { // Method of Car.
     return this.price;
 }
- 
+
 function Truck(brand, size) {
     this.car = Car;
     this.car(brand, 2000); // Call another function, modifying the "this" object (e.g. "superconstructor".)
