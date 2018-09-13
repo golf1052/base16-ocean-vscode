@@ -1,5 +1,7 @@
 # base16-ocean-vscode
 
+## This extension has been superseded by [Base16 Theme Generator](https://github.com/golf1052/base16-generator)
+
 Base16 Ocean for Visual Studio Code  
 (But better than the default Base16 Ocean)
 
